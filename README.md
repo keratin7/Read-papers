@@ -1,7 +1,7 @@
-# Read-papers
-A paper a day
+# Good-papers
 
-Inspired by Shagun Sodani , I'm going to try and do a paper a day. Daunting task. Let's see how well I can keep up. 
-Curating a list of the ones I do as I go along. Most of the papers will be Machine Learning / Deep Learning related.
+Curating a list of the good papers. Most of the papers will be Machine Learning / Deep Learning related.
 
 * [Overcoming Catastrophic forgetting in Neural Networks](http://www.pnas.org/content/early/2017/03/13/1611835114.full.pdf)
+* [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+* [Generating Sequences with Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850)
